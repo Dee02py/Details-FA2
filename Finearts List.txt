@@ -1,0 +1,296 @@
+<html>
+<head><title>Fine Arts List</title></head>
+<body bgcolor="FFD1DC">
+<h1>FINE ARTS STUDENTS DETAILS</h1>
+<table border="1">
+    <tr>
+        <th>No.</th>
+        <th>Name</th>
+        <th>Roll no.</th>
+	<th>Year&Class</th>
+	<th>Stream</th>
+	<th>Shift</th>
+    </tr>
+    <tr>
+        <td>1.</td>
+        <td>Joel Smith</td>
+        <td>245213208</td>
+	<td>1st MCA ‘B’</td>
+	<td>SF</td>
+	<td>1</td>
+    </tr>
+
+    <tr>
+        <td>2.</td>
+        <td>Jenifer Jasmine Mary</td>
+        <td>221109021</td>
+	<td>3rd B.Sc Chemistry</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+
+  <tr>
+        <td>3.</td>
+        <td>Janisha Rubavathi</td>
+        <td>235202138</td>
+	<td>2nd MA Eng</td>
+	<td>SF</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>4.</td>
+        <td>Mercy A</td>
+        <td>231202029</td>
+	<td>2nd MA Eng</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>5.</td>
+        <td>Rithenshiya</td>
+        <td>245217117</td>
+	<td>1st  Msc Biotechnology</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>6.</td>
+        <td>Ida Jebakani A</td>
+        <td>231108033</td>
+	<td>2nd B.Sc Physics</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>7.</td>
+        <td>Tina Februa M</td>
+        <td>231111040</td>
+	<td>2nd B.Sc Zoology</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>8.</td>
+        <td>Deborah Grace Delsie D</td>
+        <td>241114012</td>
+	<td>1st B.Sc CS</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>9.</td>
+        <td>Jeslyn Salwa </td>
+        <td>221108011</td>
+	<td>3rd B.Sc Physics</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>10.</td>
+        <td>Sherin Kiruba</td>
+        <td>231114051</td>
+	<td>2nd B.Sc CS</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>11.</td>
+        <td>Sharon Monica</td>
+        <td>235210121</td>
+	<td>2nd M.Sc Botany</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>12.</td>
+        <td>S Jebasta Evangeline</td>
+        <td>221104060</td>
+	<td>3rd BA Economics</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>13.</td>
+        <td>Agzin</td>
+        <td>231108003</td>
+	<td>2nd B.Sc Physics</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>14.</td>
+        <td>Jonathan David</td>
+        <td>225132163</td>
+	<td>3rd BBA Aviation & Ground Handling</td>
+	<td>SF</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>15.</td>
+        <td>Heidon Joshua</td>
+        <td>241108017</td>
+	<td>1st B.Sc Physics </td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>16.</td>
+        <td>Reinhard Allan </td>
+        <td>241114047</td>
+	<td>1st B.Sc CS</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>17.</td>
+        <td>Solomon Alwin Stuart</td>
+        <td>235117145</td>
+	<td>2nd B.Sc Biotech</td>
+	<td>SF</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>18.</td>
+        <td>Roshan</td>
+        <td>231114043</td>
+	<td>2nd B.Sc CS</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>19.</td>
+        <td>Yoseaph</td>
+        <td>221114067</td>
+	<td>3rd B.Sc CS</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>20.</td>
+        <td>Bijin Solomon</td>
+        <td>221108007</td>
+	<td>3rd B.Sc Physics</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>21.</td>
+        <td>Aswin</td>
+        <td>231102006</td>
+	<td>2nd BA Eng</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>22.</td>
+        <td></td>
+        <td></td>
+	<td></td>
+	<td></td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>23.</td>
+        <td>Samuel Jonathan</td>
+        <td>231108022</td>
+	<td>2nd B.Sc Physics</td>
+	<td>Aided</td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>24.</td>
+        <td>Jaison Manossah </td>
+        <td>225931124</td>
+	<td>3rd Viscom</td>
+	<td>SF</td>
+	<td>2</td>
+    </tr>
+
+ <tr>
+        <td>25.</td>
+        <td>Cornelious John J</td>
+        <td>235114435</td>
+	<td>2nd B.Sc CS</td>
+	<td>SF</td>
+	<td>2</td>
+    </tr>
+
+ <tr>
+        <td>26.</td>
+        <td>Jabez Benny</td>
+        <td>235931116</td>
+	<td>2nd Viscom</td>
+	<td>SF</td>
+	<td>2</td>
+    </tr>
+
+ <tr>
+        <td>27.</td>
+        <td></td>
+        <td></td>
+	<td></td>
+	<td></td>
+	<td>1</td>
+    </tr>
+
+ <tr>
+        <td>28.</td>
+        <td>Praisy Angel</td>
+        <td>235113322</td>
+	<td>2nd BCA</td>
+	<td>SF</td>
+	<td>2</td>
+    </tr>
+
+ <tr>
+        <td>29.</td>
+        <td>Rehoboth</td>
+        <td>235114647</td>
+	<td>2nd B.Sc CS</td>
+	<td>SF</td>
+	<td>2</td>
+    </tr>
+
+ <tr>
+        <td>30.</td>
+        <td>Sandeep Darwin </td>
+        <td>235107118</td>
+	<td>2nd B.Sc Maths</td>
+	<td>SF</td>
+	<td>2</td>
+    </tr>
+
+ <tr>
+        <td>31.</td>
+        <td>Caleb Louis</td>
+        <td>235114434</td>
+	<td>2nd B.Sc CS</td>
+	<td>SF</td>
+	<td>2</td>
+    </tr>
+
+   </table>
+</body>
+</html>
